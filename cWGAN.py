@@ -1,4 +1,4 @@
-# COS429 cWGAN Image Colorization Project
+# COS429 Computer Vision: cWGAN Image Colorization Project
 
 # Authors: Edward Deleu and Vishva Ilavelan 
 # Note: attributions for specific segments of code will be given throughout this file.
